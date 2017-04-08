@@ -1,6 +1,6 @@
 # DemoForBlog
 
-Some demos using in my blog
+Demos using in my blog
 
 Blog | Demo
 ------ | ------
