@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'Project' do
+    
+    # Common Module
+    # pod 'AFNetworking'
+    
+    # Business Module
+	pod 'Favorites', :path => './PodsDev/Favorites'
+	pod 'More', :path => './PodsDev/More'
+    
+    # Private Module
+    # pod 'PrivateModule', :podspec => './PodsPrivate/PrivateModule.podspec'
+    
+end

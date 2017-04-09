@@ -1,0 +1,21 @@
+PODS:
+  - Favorites (1.0)
+  - More (1.0)
+
+DEPENDENCIES:
+  - Favorites (from `./PodsDev/Favorites`)
+  - More (from `./PodsDev/More`)
+
+EXTERNAL SOURCES:
+  Favorites:
+    :path: "./PodsDev/Favorites"
+  More:
+    :path: "./PodsDev/More"
+
+SPEC CHECKSUMS:
+  Favorites: 544a3edd356a9ce359c155274ed4b30919be45a4
+  More: 0bccc313ee5450ce6d219784127941a9fa8489c8
+
+PODFILE CHECKSUM: ef6b6b9e642da3d621f06058db136e25e8ad205d
+
+COCOAPODS: 1.2.0
